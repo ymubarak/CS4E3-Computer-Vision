@@ -1,4 +1,4 @@
-#Image Mosaics
+# Image Mosaics
 
 Implementing an image stitcher that uses image warping and homographies to automatically create an image mosaic.  
 We will focus on the case where we have two input images that should form the mosaic, where we warp one image into the plane of
@@ -7,4 +7,4 @@ This problem will give some practice manipulating homogeneous coordinates, compu
 
 *Note*: For simplicity, we will specify corresponding pairs of points manually using mouse clicks.  
 
-![image_mosaics]()
+![image_mosaics](https://github.com/youssef-ahmed/CS4E3-Computer-Vision/blob/master/Image%20Mosaics/image_mosaics.png)
