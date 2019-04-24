@@ -1,4 +1,4 @@
-#Image Cartoonifier: Applying Image Processing Filters For Image Cartoonifying
+# Image Cartoonifier: Applying Image Processing Filters For Image Cartoonifying
 
 In this problem set we want to make the real-world images look like they are genuinely from
 a cartoon. The basic idea is to fill the flat parts with some color and then draw thick lines on
@@ -12,4 +12,4 @@ This problem set will cover:
 - Converting a real-life image to a painting and overlaying the sketch to produce a cartoon.  
 
 The following screenshots show the final output for the image cartoonifier program:  
-![cartooned_image]()
+![cartooned_image](https://github.com/youssef-ahmed/CS4E3-Computer-Vision/blob/master/Image_Cartoonifier/cartooned_image.png)
